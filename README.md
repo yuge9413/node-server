@@ -4,7 +4,7 @@
 ## 命令
 ```js
 yarn install    ##安装依赖
-node index.js   ##启动服务
+node index.js   ##启动服务
 ```
 
 ## 功能
