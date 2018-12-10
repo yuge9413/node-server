@@ -3,13 +3,14 @@
 
 ## 命令
 ```js
-yarn install    ##安装依赖
-node index.js   ##启动服务
+yarn install         ##安装依赖
+npm run build        ##babel编译成es5
+node dist/index.js   ##启动服务
 ```
 
 ## 功能
 
-- [ ] 静态文件返回
+- [x] 静态文件返回
 - [ ] node服务
 - [ ] 请求转发
 - [ ] 代理
